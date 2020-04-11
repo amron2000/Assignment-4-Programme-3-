@@ -1,0 +1,18 @@
+    // Q1
+            /*
+            IntConsumer display = value -> System.out.printf("%d ", value);
+            display.accept(3);
+            */
+    // Q2
+	
+	// Lambda
+       (String s) -> {return s.toUpperCase();}
+	// Method Reference
+        String::toUpperCase
+    // Q3 
+
+       (no-argument) -> "Welcome to lambdas!"
+
+    // Q4
+          // cube
+       value -> value * value * value

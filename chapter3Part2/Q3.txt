@@ -1,0 +1,6 @@
+1- the program will open get and open the source from listEmployees (listEmployees.stream())
+2- we will filter the employees by salary and get only employees whose salary is more than or equal 800 and less than 1200 
+that will get the result : (Sami, Huda, Hani).
+3- we will make a new Employee list that modifed the salary by additional %0.02 and that by the code (.map)
+4- collects the elements in the stream in a list and group it by Department.
+5- finally we used forEach terminal Op to print Departments.

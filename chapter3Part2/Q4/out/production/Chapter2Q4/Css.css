@@ -1,0 +1,22 @@
+
+#BackGround {
+    -fx-background-color:grey;
+}
+
+#Welcome {
+    -fx-font-weight: bold;
+    -fx-font-size:22;
+}
+
+#Buttons {
+    -fx-background-color: blue;
+    -fx-text-fill: white;
+}
+
+#label {
+    -fx-font-weight: bold;
+}
+
+/*#Welcome {*/
+/*    -fx-text-fill: red;*/
+/*}*/
